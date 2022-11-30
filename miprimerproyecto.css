@@ -1,5 +1,17 @@
+header {
+    background-color:rgb(0, 162, 255);
+}
+
 .h1 {
-   
-    text-aling:center;
-    background-color:blue;
+    color:white;  
+    text-aling: center;
 }   
+a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+input{
+    content: "texto";
+    color:blue;
+    border: 5px;
+}
